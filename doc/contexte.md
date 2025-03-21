@@ -1,10 +1,5 @@
 # Contexte de l'association A.I.R
 
-> *Document mis à jour : 18 octobre 2024*
-
-![Logo A.I.R](logo_placeholder.png)
-
----
 
 ## Table des matières
 - [Présentation générale](#présentation-générale)
@@ -256,14 +251,6 @@ Des tarifs réduits sont proposés aux adhérents Marcquois avec de faibles reve
 - **Matinées** : Dédiées à la gestion des dons et à l'approvisionnement
 - **Événements** : Grandes ventes et déstockages organisés plusieurs fois par an
 
-#### Coordonnées
-| Type | Information |
-|:-----|:------------|
-| **Adresse** | 65 boulevard Clemenceau, 59700 Marcq-en-Barœul |
-| **Téléphone** | 03 28 07 66 52 |
-| **Email** | [nouvoulookmarcq@outlook.fr](mailto:nouvoulookmarcq@outlook.fr) |
-
----
 
 ## Sources documentaires
 
@@ -280,4 +267,4 @@ Ce document a été réalisé à partir des documents suivants :
 | Contrat de séjour BPI | Février 2024 |
 | Charte de bientraitance | Septembre 2023 |
 
-*Document finalisé le 18 octobre 2024*
+*Document finalisé le Vendredit 21 mars 2025*
