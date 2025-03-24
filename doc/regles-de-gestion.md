@@ -68,3 +68,12 @@ RG57 : La plateforme devra permettre aux **salariés** de créer des modèles d'
 RG58 : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des enquêtes de satisfaction
 RG59 : La plateforme doit proposer du **multi-linguisme** : français, anglais, arabe, et russe
 RG60 : Certaines enquêtes de satisfaction sont distribuées au **début**, au **milieu** et à la **fin** du suivi d'un demandeur d'asile / réfugié
+
+## RG : État des lieux
+RG61 : La plateforme devra permettre à l'association de **générer** des formulaires **états des lieux**
+RG62 : La plateforme devra permettre à l'association de **générer** des **rapport écrits** d'états des lieux
+RG63 : La plateforme devra permettre à l'association de **générer** des **statistiques** d'états des lieux
+RG64 : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des états des lieux
+RG65 : La plateforme devra permettre aux **salariés** de créer des modèles d'états des lieux personnalisés
+RG66 : Les états des lieux auront lieu au **début**, et à la **fin** de l'hébergement d'un demandeur d'asile / réfugié
+RG67 : Le formulaire devra contenir un encart dédié aux **photos** relatif à l'état des lieux
