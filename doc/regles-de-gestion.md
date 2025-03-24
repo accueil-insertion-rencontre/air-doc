@@ -1,7 +1,7 @@
 # Règles de gestion association AIR
  
 ## RG : Site vitrine 
-**RG1** : Le site vitrine peut être modifiable par les **employés** de l'association
+**RG1** : Le site vitrine peut être modifiable par les **employés** de l'association  
 **RG2** : Le site vitrine doit contenir une section dédiée au **parcours du demandeurs d'asile / réfugiés**  
 **RG3** : Le site vitrine doit contenir un espace de **recrutement** pour les futurs salariés  
 **RG4** : Le site vitrine doit contenir une section présentant les **partenaires** de l'association  
