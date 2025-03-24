@@ -19,3 +19,18 @@ RG15 : Le site vitrine devra contenir un lien de redirection vers la « boutique
 RG16 : Le site vitrine devra contenir un Google Form pour des questionnaires de satisfaction
 RG17 : Le site vitrine devra contenir un moyen de contact pour les différentes structures 
 
+## RG : Boutique solidaire Nouvoulook
+RG18 : Le site de la boutique doit contenir une section présentant l'historique de l'association
+RG19 : Le site de la boutique doit contenir un espace de recrutement pour les futurs bénévoles 
+RG20 : Le site de la boutique doit contenir des illustrations d'articles types que les donateurs pourraient **donner**
+RG21 : Le site de la boutique doit contenir des illustrations d'articles types que les clients pourraient **acheter**
+RG22 : Le site de la boutique doit contenir la présentation des différents partenaires
+RG23 : Le site de la boutique devra absolument contenir la précision des réductions accessibles uniquement aux habitants locaux
+RG24 : Le site de la boutique devra contenir un encart réglementant les horaires de dons
+RG25 : Le site de la boutique devra contenir un encart réglementant les dons en eux-mêmes *(vêtements, jeux, livres, etc.)*
+RG25 : Le site de la boutique devra préciser les différentes dates d'opérations spéciales *(destockage, ventes exceptionnelles, etc.)*
+RG26 : Le site de la boutique devra mettre l'accent sur l'aspect "seconde main" et "recyclage"
+RG27 : Le site de la boutique devra préciser des règles de respect
+RG28 : Le site de la boutique devra préciser qu'il ne s'agit **pas** d'un établissement à but lucratif
+RG29 : Le site de la boutique devra contenir un encart répertoriant les dernières actualités de la boutique
+RG30 : Cette dernière section pourra être modifiée par le siège de l'association
