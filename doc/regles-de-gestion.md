@@ -1,40 +1,41 @@
 # Règles de gestion association AIR
  
 ## RG : Site vitrine 
-**RG1** : Le site vitrine peut être modifiable par les **employés** de l'association  
-**RG2** : Le site vitrine doit contenir une section dédiée au **parcours du demandeurs d'asile / réfugiés**  
+**RG1** : Le site vitrine peut être modifiable par le **siège** de l'association  
+**RG2** : Le site vitrine doit contenir une section dédiée au **parcours du demandeurs d'asile** / **réfugiés**  
 **RG3** : Le site vitrine doit contenir un espace de **recrutement** pour les futurs salariés  
 **RG4** : Le site vitrine doit contenir une section présentant les **partenaires** de l'association  
 **RG5** : Le site vitrine doit contenir une section présentant l'**historique** de l'association  
-**RG6** : Le site vitrine doit contenir une section présentant le **projet associatif** de l'association  
+**RG6** : Le site vitrine doit contenir une section présentant le **projet associatif** de l'association (?)  
 **RG7** : Le site vitrine doit contenir une section présentant les différentes **structures** de l'association  
-**RG8** : Le site vitrine différenciera les **projets d'établissement** au **projet associatif**  
+~~**RG8** : Le site vitrine différenciera les **projets d'établissement** au **projet associatif**~~  
 **RG9** : Le site vitrine doit être **référencé** sur les moteurs de recherche  
-**RG10** : Le site vitrine devra contenir les différentes **chartes / règlement** de l'association  
-**RG11** : Le site vitrine devra présenter la **gouvernance** de l'association  
+~~**RG10** : Le site vitrine devra contenir les différentes **chartes / règlement** de l'association~~  
+**RG11** : Le site vitrine devra présenter la **gouvernance** de l'association (?)  
 **RG12** : Le site vitrine ne devra **pas** contenir d'**information sensibles** de toute nature  
-**RG13** : (?) Le site vitrine devra contenir les différents **rapports d'activités** de l'association  
-**RG14** : Le site vitrine devra présenter les différents **projets personnalisés** des demandeurs d'asile / réfugiés  
+~~**RG13** : (?) Le site vitrine devra contenir les différents **rapports d'activités** de l'association~~  
+~~**RG14** : Le site vitrine devra présenter les différents **projets personnalisés** des demandeurs d'asile / réfugiés~~  
 **RG15** : Le site vitrine devra contenir un lien de redirection vers la « **boutique solidaire** » de l'association  
-**RG16** : Le site vitrine devra contenir un **Google Form** pour des questionnaires de satisfaction  
+~~**RG16** : Le site vitrine devra contenir un **Google Form** pour des questionnaires de satisfaction~~  
 **RG17** : Le site vitrine devra contenir un moyen de **contact** pour les différentes structures  
 
 ## RG : Boutique solidaire Nouvoulook
-**RG18** : Le site de la boutique doit contenir une section présentant l'**historique** de l'association  
+**RG18** : Le site de la boutique doit contenir une section présentant l'**historique** de la boutique  
 **RG19** : Le site de la boutique doit contenir un espace de **recrutement** pour les futurs bénévoles   
-**RG20** : L'espace de recrutement devra contenir les **missions types** ainsi que les différentes **valeurs associatives**  
+**RG20** : L'espace de recrutement devra contenir les **missions types**    
 **RG21** : Le site de la boutique doit contenir des illustrations d'**articles types** que les donateurs pourraient **donner**  
 **RG22** : Le site de la boutique doit contenir des illustrations d'**articles types** que les clients pourraient **acheter**  
 **RG23** : Le site de la boutique doit contenir la présentation des différents **partenaires**  
 **RG24** : Le site de la boutique devra absolument contenir la précision des **réductions** accessibles uniquement aux habitants locaux  
-**RG25** : Le site de la boutique devra contenir un encart réglementant les **horaires de dons**  
-**RG26** : Le site de la boutique devra contenir un encart réglementant les **dons** en eux-mêmes *(vêtements, jeux, livres, etc.)*  
-**RG27** : Le site de la boutique devra préciser les différentes dates d'**opérations spéciales** *(destockage, ventes exceptionnelles, etc.)*  
-**RG28** : Le site de la boutique devra mettre l'accent sur l'aspect "**seconde main**" et "**recyclage**"  
-**RG29** : Le site de la boutique devra préciser des **règles de respect** des articles  
+**RG25** : Le site de la boutique devra contenir un **simulateur** permettant d'évaluer les réductions auquels les habitants locaux auront droit  
+**RG26** : Le site de la boutique devra contenir un encart réglementant les **horaires de dons**  
+**RG27** : Le site de la boutique devra contenir un encart réglementant les **dons** en eux-mêmes *(vêtements, jeux, livres, etc.)*  
+**RG28** : Le site de la boutique devra préciser les différentes dates d'**opérations spéciales** *(destockage, ventes exceptionnelles, etc.)*  
+**RG29** : Le site de la boutique devra mettre l'accent sur l'aspect "**seconde main**" et "**recyclage**"  
 **RG30** : Le site de la boutique devra préciser qu'il ne s'agit **pas** d'un établissement à but lucratif  
 **RG31** : Le site de la boutique devra contenir un encart répertoriant les **dernières actualités** de la boutique  
-**RG32** : Cette dernière section pourra être modifiée par le siège de l'association  
+**RG32** : Cette dernière section pourra être modifiée par le **siège** de l'association  
+**RG33** : Le site de la boutique devra posséder un **formulaire de premier contact** pour le public intéressé  
 
 ## RG : FLE (Français Langue Etrangère)
 **RG32** : Le FLE comporte des cours de langue ainsi que des cours dédié au **code de la route**  
