@@ -11,9 +11,12 @@ Lors de cet entretien, nous avons procédé ensemble à une relecture critique e
 - RG3 : Présence d’un espace de recrutement pour les futurs salariés
 - RG4 : Présentation des partenaires de l’association
 - RG5 : Mise en avant de l’historique de l’association
+- RG6 : Le site vitrine doit contenir une section présentant le projet associatif de l'association (?)
 - RG7 : Présentation des différentes structures de l’association
 - RG9 : Référencement du site sur les moteurs de recherche
+- RG11 : Le site vitrine devra présenter la gouvernance de l'association (?)
 - RG12 : Le site ne doit contenir aucune information sensible
+- RG13 : Publication des rapports d’activité (?)
 - RG15 : Lien vers la boutique solidaire
 - RG17 : Moyens de contact pour chaque structure
 
@@ -21,13 +24,12 @@ Lors de cet entretien, nous avons procédé ensemble à une relecture critique e
 
 - RG1 : La modification du site vitrine est désormais réservée au siège de l’association (et non plus à l’ensemble des employés)
 - RG2 : Reformulation de la section dédiée au parcours des demandeurs d’asile / réfugiés
-- RG6 et RG11 : Ces deux règles ont été conservées, mais marquées comme à confirmer ((?)) pour validation ultérieure
+- RG6 , RG11 et RG13 : Ces trois règles ont été conservées, mais marquées comme à confirmer ((?)) pour validation ultérieure
 
 ❌ Règles supprimées
 
 - RG8 : Distinction entre projets d’établissement et projet associatif
 - RG10 : Inclusion des chartes / règlements internes
-- RG13 : Publication des rapports d’activité
 - RG14 : Présentation des projets personnalisés
 - RG16 : Intégration d’un Google Form pour les questionnaires de satisfaction
 
@@ -48,6 +50,9 @@ Lors de cet entretien, nous avons procédé ensemble à une relecture critique e
 - RG18 : L’historique présenté concerne désormais la boutique, et non plus l’association dans son ensemble
 - RG20 : La référence aux "valeurs associatives" a été supprimée au profit d’un focus sur les missions types
 - RG25 : Ajout d’un simulateur de réduction destiné aux habitants locaux
+- RGX : Inclure le flyer en pdf
+- RGX : Pour le formulaire de premier contact la possibilité de sélectionné la raison de contact (bénévole ou client).
+- RGX : Mettre le formulaire d'adhésion en pdf pour les clients
 
 📘 Plateforme FLE (Français Langue Étrangère)
 Toutes les règles ont été validées sans modification, car elles répondent pleinement aux besoins pédagogiques de l’association. À noter que la règle RG36 reste à confirmer ((?)).
