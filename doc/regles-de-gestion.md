@@ -63,26 +63,26 @@
 
 ## RG : Enquêtes de satisfaction
 
-~~**RG50** : Les enquêtes de satisfaction ne sont **pas** obligatoires pour les demandeurs d'asile / réfugiés~~  
-~~**RG51** : La plateforme devra permettre à l'association de **générer** des **enquêtes** de satisfaction~~  
-~~**RG52** : La plateforme devra permettre à l'association de **générer** des **rapport écrits** d'enquêtes de satisfaction~~  
-~~**RG53** : La plateforme devra permettre à l'association de **générer** des **statistiques** d'enquêtes de satisfaction~~  
-~~**RG54** : Les statistiques générées pourront être **globales** mais également **par structure**~~  
-~~**RG55** : La plateforme devra permettre aux demandeurs d'asile / réfugiés de garder l'**anonymat** de leur enquête~~  
-~~**RG56** : La plateforme devra permettre aux **salariés** d'envoyer les enquêtes par email aux demandeurs d'asile / réfugiés~~  
-~~**RG57** : La plateforme devra permettre aux **salariés** de créer des **modèles d'enquêtes** de satisfaction personnalisés~~  
-~~**RG58** : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des enquêtes de satisfaction~~  
-~~**RG59** : La plateforme doit proposer du **multi-linguisme** : français, anglais, arabe, et russe~~  
-~~**RG60** : Les enquêtes de satisfaction du **CADA** sont distribuées au **début**, au **milieu** et à la **fin** du suivi d'un demandeur d'asile / réfugié~~  
-~~**RG61** : Les enquêtes de satisfaction du **CPH** sont distribuées au **début** et à la **fin** du suivi du demandeur d'asile / réfugié~~
-~~**RG62** : Les enquêtes de satisfaction du **FLE** sont distribuées uniquement à la **fin** du suivi de l'apprenant~~  
+~~**RG46** : Les enquêtes de satisfaction ne sont **pas** obligatoires pour les demandeurs d'asile / réfugiés~~  
+~~**RG47** : La plateforme devra permettre à l'association de **générer** des **enquêtes** de satisfaction~~  
+~~**RG48** : La plateforme devra permettre à l'association de **générer** des **rapport écrits** d'enquêtes de satisfaction~~  
+~~**RG49** : La plateforme devra permettre à l'association de **générer** des **statistiques** d'enquêtes de satisfaction~~  
+~~**RG50** : Les statistiques générées pourront être **globales** mais également **par structure**~~  
+~~**RG51** : La plateforme devra permettre aux demandeurs d'asile / réfugiés de garder l'**anonymat** de leur enquête~~  
+~~**RG52** : La plateforme devra permettre aux **salariés** d'envoyer les enquêtes par email aux demandeurs d'asile / réfugiés~~  
+~~**RG53** : La plateforme devra permettre aux **salariés** de créer des **modèles d'enquêtes** de satisfaction personnalisés~~  
+~~**RG54** : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des enquêtes de satisfaction~~  
+~~**RG55** : La plateforme doit proposer du **multi-linguisme** : français, anglais, arabe, et russe~~  
+~~**RG56** : Les enquêtes de satisfaction du **CADA** sont distribuées au **début**, au **milieu** et à la **fin** du suivi d'un demandeur d'asile / réfugié~~  
+~~**RG57** : Les enquêtes de satisfaction du **CPH** sont distribuées au **début** et à la **fin** du suivi du demandeur d'asile / réfugié~~
+~~**RG58** : Les enquêtes de satisfaction du **FLE** sont distribuées uniquement à la **fin** du suivi de l'apprenant~~  
 
 ---
 
 ## RG : État des lieux
-~~**RG63** : La plateforme devra permettre à l'association de **générer** des **formulaires** états des lieux~~  
-~~**RG64** : La plateforme devra permettre à l'association de **générer** des **statistiques** d'états des lieux~~  
-~~**RG65** : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des états des lieux~~  
-~~**RG66** : La plateforme devra permettre aux **salariés** de créer des **modèles d'états des lieux** personnalisés~~  
-~~**RG67** : Les états des lieux auront lieu au **début**, et à la **fin** de l'hébergement d'un demandeur d'asile / réfugié~~  
-~~**RG68** : Le formulaire devra contenir un encart dédié aux **photos** relatif à l'état des lieux~~  
+~~**RG59** : La plateforme devra permettre à l'association de **générer** des **formulaires** états des lieux~~  
+~~**RG60** : La plateforme devra permettre à l'association de **générer** des **statistiques** d'états des lieux~~  
+~~**RG61** : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des états des lieux~~  
+~~**RG62** : La plateforme devra permettre aux **salariés** de créer des **modèles d'états des lieux** personnalisés~~  
+~~**RG63** : Les états des lieux auront lieu au **début**, et à la **fin** de l'hébergement d'un demandeur d'asile / réfugié~~  
+~~**RG64** : Le formulaire devra contenir un encart dédié aux **photos** relatif à l'état des lieux~~  
