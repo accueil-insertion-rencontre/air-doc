@@ -6,7 +6,8 @@ Ce fichier contient les différentes priorités décidées lors d'une consultati
 
 ### Tableau des priorités
 
-| Priorité     | Description                                                             |
-| ------------ | ----------------------------------------------------------------------- |
-| **Absolue**  | Site vitrine, Site institutionnel de la boutique solidaire (Nouvoulook) |
-| **Relative** | *À définir*                                                               |
+| Priorité                  | Description                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| **Absolue**               | Site vitrine, Site institutionnel de la boutique solidaire (Nouvoulook), FLE |
+| **Relative**              | Enquêtes de satisfaction                                                     |
+| ***Ce qui est conservé*** | Site vitrine, site de la boutique solidaire, FLE                             |
