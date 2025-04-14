@@ -13,7 +13,7 @@
 ~~**RG8** : Le site vitrine différenciera les **projets d'établissement** au **projet associatif**~~  
 **RG9** : Le site vitrine doit être **référencé** sur les moteurs de recherche  
 ~~**RG10** : Le site vitrine devra contenir les différentes **chartes / règlement** de l'association~~  
-**RG11** : Le site vitrine devra présenter la **gouvernance** de l'association (?)  
+**RG11** : Le site vitrine devra présenter la **gouvernance** de l'association  
 **RG12** : Le site vitrine ne devra **pas** contenir d'**information sensibles** de toute nature  
 ~~**RG13** : (?) Le site vitrine devra contenir les différents **rapports d'activités** de l'association~~  
 ~~**RG14** : Le site vitrine devra présenter les différents **projets personnalisés** des demandeurs d'asile / réfugiés~~  
@@ -45,48 +45,43 @@
 
 ## RG : FLE (Français Langue Etrangère)
 **RG32** : Le FLE comporte des cours de langue à visée "insertion professionnelle" ainsi que des cours dédié au **code de la route**  
-**RG33** : La plateforme doit pouvoir permettre à l'enseignant(e) de générer des **quiz** de type Kahoot  
-**RG34** : La plateforme doit permettre aux élèves de **participer** aux quiz  
-**RG35** : La plateforme doit permettre à l'ensemble de la classe (enseignant(e) et élèves) de consulter les différentes **statistiques** des quiz  
-**RG36** (???) : La plateforme doit pouvoir permettre le **partage de documents** entre l'enseignant(e) et les élèves  
-**RG37** : La plateforme doit permettre aux enseignants d'effectuer un **suivi** des élèves  
-**RG38** : Ce suivi devra être construit sous forme de **suivi didactique quotidien**  
-**RG39** : Cette fiche de suivi devra contenir un encart dédié aux **présences** des élèves  
-**RG40** : Cette fiche de suivi devra contenir un encart dédié aux **absences** des élèves  
-**RG41** : Cette fiche de suivi devra contenir un encart dédié aux **résultats** des élèves  
-**RG42** : Cette fiche de suivi devra contenir un encart dédié au **fiches de contact** des élèves  
-**RG43** : Cette fiche de suivi devra contenir un encart dédié à l'**accompagnement** des élèves pour leur inscription à l'examen du code de la route *(ANTS)*  
-**RG44** : Cette fiche de suivi devra contenir un encart dédié au **compte-rendu de la journée** que le professeur pourra remplir  
-**RG45** : Cette fiche de suivi devra contenir le nombres d'**heures d'enseignement** effectuée par l'enseignant(e) *(par mois et par an)*  
-**RG46** : La plateforme devra **notifier** l'enseignant(e) au bout de 3 absences consécutives d'un élève avec un commentaire de l'échange  
-**RG47** : La plateforme devra **notifier** l'enseignant(e) à **6** mois et à **12** mois après la fin de formation d'un élève  
-**RG48** : La plateforme devra permettre à l'enseignant(e) de générer des **attestations de formation**  
-**RG49** : La plateforme devra permettre à l'enseignant(e) de générer des **signatures électroniques**  
+**RG33** : La plateforme doit pouvoir permettre le **partage de documents** entre l'enseignant(e) et les élèves  
+**RG34** : La plateforme doit permettre aux enseignants d'effectuer un **suivi** des élèves  
+**RG35** : Ce suivi devra être construit sous forme de **suivi didactique quotidien**  
+**RG36** : Cette fiche de suivi devra contenir un encart dédié aux **présences** des élèves  
+**RG37** : Cette fiche de suivi devra contenir un encart dédié aux **absences** des élèves  
+**RG38** : Cette fiche de suivi devra contenir un encart dédié aux **résultats** des élèves  
+**RG39** : Cette fiche de suivi devra contenir un encart dédié au **fiches de contact** des élèves  
+**RG40** : Cette fiche de suivi devra contenir un encart dédié à l'**accompagnement** des élèves pour leur inscription à l'examen du code de la route *(ANTS)*  
+**RG41** : Cette fiche de suivi devra contenir le nombres d'**heures d'enseignement** effectuée par l'enseignant(e) *(par mois et par an)*  
+**RG42** : La plateforme devra **notifier** l'enseignant(e) au bout de 3 absences consécutives d'un élève avec un commentaire de l'échange  
+**RG43** : La plateforme devra **notifier** l'enseignant(e) à **6** mois et à **12** mois après la fin de formation d'un élève  
+**RG44** : La plateforme devra permettre à l'enseignant(e) de générer des **attestations de formation**  
 
 ---
 
 ## RG : Enquêtes de satisfaction
 
-~~**RG50** : Les enquêtes de satisfaction ne sont **pas** obligatoires pour les demandeurs d'asile / réfugiés~~  
-**RG51** : La plateforme devra permettre à l'association de **générer** des **enquêtes** de satisfaction  
-**RG52** : La plateforme devra permettre à l'association de **générer** des **rapport écrits** d'enquêtes de satisfaction  
-**RG53** : La plateforme devra permettre à l'association de **générer** des **statistiques** d'enquêtes de satisfaction  
-~~**RG54** : Les statistiques générées pourront être **globales** mais également **par structure**~~  
-~~**RG55** : La plateforme devra permettre aux demandeurs d'asile / réfugiés de garder l'**anonymat** de leur enquête~~  
-**RG56** : La plateforme devra permettre aux **salariés** d'envoyer les enquêtes par email aux demandeurs d'asile / réfugiés  
-~~**RG57** : La plateforme devra permettre aux **salariés** de créer des **modèles d'enquêtes** de satisfaction personnalisés~~  
-**RG58** : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des enquêtes de satisfaction  
-**RG59** : La plateforme doit proposer du **multi-linguisme** : français, anglais, arabe, et russe  
-**RG60** : Les enquêtes de satisfaction du **CADA** sont distribuées au **début**, au **milieu** et à la **fin** du suivi d'un demandeur d'asile / réfugié  
-**RG61** : Les enquêtes de satisfaction du **CPH** sont distribuées au **début** et à la **fin** du suivi du demandeur d'asile / réfugié
-**RG62** : Les enquêtes de satisfaction du **FLE** sont distribuées uniquement à la **fin** du suivi de l'apprenant  
+~~**RG45** : Les enquêtes de satisfaction ne sont **pas** obligatoires pour les demandeurs d'asile / réfugiés~~  
+~~**RG46** : La plateforme devra permettre à l'association de **générer** des **enquêtes** de satisfaction~~  
+~~**RG47** : La plateforme devra permettre à l'association de **générer** des **rapport écrits** d'enquêtes de satisfaction~~  
+~~**RG48** : La plateforme devra permettre à l'association de **générer** des **statistiques** d'enquêtes de satisfaction~~  
+~~**RG49** : Les statistiques générées pourront être **globales** mais également **par structure**~~  
+~~**RG50** : La plateforme devra permettre aux demandeurs d'asile / réfugiés de garder l'**anonymat** de leur enquête~~  
+~~**RG51** : La plateforme devra permettre aux **salariés** d'envoyer les enquêtes par email aux demandeurs d'asile / réfugiés~~  
+~~**RG52** : La plateforme devra permettre aux **salariés** de créer des **modèles d'enquêtes** de satisfaction personnalisés~~  
+~~**RG53** : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des enquêtes de satisfaction~~  
+~~**RG54** : La plateforme doit proposer du **multi-linguisme** : français, anglais, arabe, et russe~~  
+~~**RG55** : Les enquêtes de satisfaction du **CADA** sont distribuées au **début**, au **milieu** et à la **fin** du suivi d'un demandeur d'asile / réfugié~~  
+~~**RG56** : Les enquêtes de satisfaction du **CPH** sont distribuées au **début** et à la **fin** du suivi du demandeur d'asile / réfugié~~
+~~**RG57** : Les enquêtes de satisfaction du **FLE** sont distribuées uniquement à la **fin** du suivi de l'apprenant~~  
 
 ---
 
 ## RG : État des lieux
-**RG63** : La plateforme devra permettre à l'association de **générer** des **formulaires** états des lieux  
-**RG64** : La plateforme devra permettre à l'association de **générer** des **statistiques** d'états des lieux  
-**RG65** : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des états des lieux  
-~~**RG66** : La plateforme devra permettre aux **salariés** de créer des **modèles d'états des lieux** personnalisés~~  
-**RG67** : Les états des lieux auront lieu au **début**, et à la **fin** de l'hébergement d'un demandeur d'asile / réfugié  
-**RG68** : Le formulaire devra contenir un encart dédié aux **photos** relatif à l'état des lieux  
+~~**RG58** : La plateforme devra permettre à l'association de **générer** des **formulaires** états des lieux~~  
+~~**RG59** : La plateforme devra permettre à l'association de **générer** des **statistiques** d'états des lieux~~  
+~~**RG60** : La plateforme devra permettre aux **salariés** de **consulter** les **résultats** des états des lieux~~  
+~~**RG61** : La plateforme devra permettre aux **salariés** de créer des **modèles d'états des lieux** personnalisés~~  
+~~**RG62** : Les états des lieux auront lieu au **début**, et à la **fin** de l'hébergement d'un demandeur d'asile / réfugié~~  
+~~**RG63** : Le formulaire devra contenir un encart dédié aux **photos** relatif à l'état des lieux~~  
