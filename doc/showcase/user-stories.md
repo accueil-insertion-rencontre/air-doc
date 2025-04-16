@@ -133,7 +133,3 @@
 - *En tant que directeur/directrice, je veux pouvoir modifier un compte de conseiller, afin de corriger ses informations si besoin.*
 - *En tant que directeur/directrice, je veux désactiver un compte de conseiller, afin de retirer l’accès à une personne non autorisée.*
 - *En tant que directeur/directrice, je veux que le mot de passe respecte les règles de sécurité, afin de garantir la protection des accès.*
-
----
-
-Souhaites-tu un export Markdown ou Word pour ce document ? Je peux aussi te le glisser dans ton dossier pro si tu veux une version prête à livrer.
