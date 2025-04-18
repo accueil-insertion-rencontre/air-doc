@@ -90,4 +90,13 @@ Pertinent si les fonctionnalités temps réel, la scalabilité ou l'optimisation
 
 ## Choix définitif pour le projet A.I.R
 
-- a voir
+Après évaluation approfondie et discussions avec l'équipe de développement, **NestJS** a été choisi comme framework pour ce projet. Les raisons principales de ce choix sont:
+
+- Expertise de l'équipe actuelle en TypeScript et environnement Node.js
+- Architecture modulaire favorisant une meilleure organisation du code
+- Excellentes performances pour les opérations d'entrée/sortie
+- Typage fort grâce à TypeScript améliorant la robustesse du code
+- Écosystème moderne et en forte croissance
+- Documentation riche et communauté active
+
+Bien que Symfony ait obtenu un score légèrement supérieur dans notre analyse pondérée, les considérations pratiques d'implémentation et la facilité d'intégration avec les autres technologies du projet ont orienté notre décision finale vers NestJS.
